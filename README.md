@@ -1,4 +1,4 @@
-## Hi there 👋
+## привет я аня и всоо
 
 <!--
 **Noshpa2/Noshpa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
