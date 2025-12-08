@@ -1,6 +1,6 @@
 ## привет я аня и всоо
 
-<!--https://i.pinimg.com/736x/f2/75/ee/f275ee1fc4c250d11d1afa7f859e5448.jpg
+--https://i.pinimg.com/736x/f2/75/ee/f275ee1fc4c250d11d1afa7f859e5448.jpg
 **Noshpa2/Noshpa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
